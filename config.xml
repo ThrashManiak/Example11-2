@@ -7,8 +7,7 @@
       Esta es una app de PhoneGap.
   </description>
   <author  href="http://cordova.io">
-    
-      Angeles  y francisco de jesus 
+    Angeles  y francisco de jesus 
   </author>
   <content src="index.html" />
   <plugin name="cordova-plugin-dialogs"/>
